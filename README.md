@@ -79,7 +79,6 @@ Your data stays on your device.
 ## 📱 Platforms
 
 - Android
-- Windows
 - Flutter Web (Experimental)
 
 ---
