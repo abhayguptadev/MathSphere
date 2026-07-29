@@ -8,6 +8,8 @@ Instead of switching between multiple applications for calculations, graphing, f
 
 The app focuses on speed, simplicity, and privacy by storing all user data locally on the device.
 
+[Download to Use](https://github.com/abhayguptadev/MathSphere/releases/download/v.1/MathSphere.apk)
+
 ---
 
 ## ✨ Features
